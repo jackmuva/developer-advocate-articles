@@ -1,6 +1,6 @@
 # Developer Advocate Articles
 ##  📜 Tutorials
-### Paragon powered RAG application
+### 👕 Paragon powered RAG application
 - [RAG with multiple integrations](https://www.useparagon.com/learn/ai-knowledge-chatbot-chapter-1/)
 - [Implementing permissions for RAG](https://www.useparagon.com/learn/ai-knowledge-chatbot-with-permissions-chapter-2/)
 - [Production ready permissions for RAG](https://www.useparagon.com/learn/building-permissions-and-access-control-that-scale-with-third-party-integrations/)
