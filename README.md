@@ -2,7 +2,6 @@
 ##  📜 Tutorials
 ### 👕 Paragon powered RAG application
 - [RAG with multiple integrations](https://www.useparagon.com/learn/ai-knowledge-chatbot-chapter-1/)
-- <a href="http://example.com/" target="_blank">Hello, world!</a>
 - [Implementing permissions for RAG](https://www.useparagon.com/learn/ai-knowledge-chatbot-with-permissions-chapter-2/)
 - [Production ready permissions for RAG](https://www.useparagon.com/learn/building-permissions-and-access-control-that-scale-with-third-party-integrations/)
 - [Agentic tools across integrations](https://www.useparagon.com/learn/implementing-agentic-actions-with-third-party-integrations/)
