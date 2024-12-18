@@ -6,6 +6,9 @@
 - [Production ready permissions for RAG](https://www.useparagon.com/learn/building-permissions-and-access-control-that-scale-with-third-party-integrations/)
 - [Agentic tools across integrations](https://www.useparagon.com/learn/implementing-agentic-actions-with-third-party-integrations/)
 
+## 🏗️ Build vs Buy
+- [Build vs Buy: Authentication for 3rd-party Integrations](https://www.useparagon.com/learn/build-vs-buy-authentication-for-integrations/)
+
 ## 🧠 Thought Leadership/Educational 
 - [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
 - [Building webhooks for real-time use cases](https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases)
