@@ -1,10 +1,10 @@
 # Developer Advocate Articles
 ##  📜 Tutorials
-### 👕 Paragon powered RAG application
 - [RAG with multiple integrations](https://www.useparagon.com/learn/ai-knowledge-chatbot-chapter-1/)
 - [Implementing permissions for RAG](https://www.useparagon.com/learn/ai-knowledge-chatbot-with-permissions-chapter-2/)
 - [Production ready permissions for RAG](https://www.useparagon.com/learn/building-permissions-and-access-control-that-scale-with-third-party-integrations/)
 - [Agentic tools across integrations](https://www.useparagon.com/learn/implementing-agentic-actions-with-third-party-integrations/)
+- [Scaling your AI Agent's Toolbox](https://www.useparagon.com/learn/scaling-your-ai-agent-toolbox/)
 
 ## 🏗️ Build vs Buy
 - [Build vs Buy: Authentication for 3rd-party Integrations](https://www.useparagon.com/learn/build-vs-buy-authentication-for-integrations/)
