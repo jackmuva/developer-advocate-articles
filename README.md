@@ -9,7 +9,7 @@
 ## 🏗️ Build vs Buy
 - [Build vs Buy: Authentication for 3rd-party Integrations](https://www.useparagon.com/learn/build-vs-buy-authentication-for-integrations/)
 - [Build vs Buy: Data Ingestion](https://www.useparagon.com/learn/build-vs-buy-data-ingestion/)
-- [Build vs Buy: Data Sync](https://www.useparagon.com/learn/build-vs-buy-data-sync/)
+- [Build vs Buy: Data Sync](https://www.useparagon.com/learn/build-vs-buy-bidirectional-sync/)
 
 ## 🧠 Thought Leadership/Educational 
 - [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
