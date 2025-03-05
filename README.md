@@ -1,4 +1,8 @@
 # Developer Advocate Articles
+## 🧮 Research on Best Practices
+- [RAG Best Practices: Querying vs Data Ingestion](https://www.useparagon.com/learn/rag-best-practices-query-vs-data-ingestion/)
+- [RAG Best Practices: Optimizing Tool Calling](https://www.useparagon.com/learn/rag-best-practices-optimizing-tool-calling/)
+
 ##  📜 Tutorials
 - [RAG with multiple integrations](https://www.useparagon.com/learn/ai-knowledge-chatbot-chapter-1/)
 - [Implementing permissions for RAG](https://www.useparagon.com/learn/ai-knowledge-chatbot-with-permissions-chapter-2/)
