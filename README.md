@@ -20,6 +20,7 @@
 - [Building webhooks for real-time use cases](https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases)
 
 ## 🔬 Paragon Product Focused 🔬
+- [Paragon's Approach to Synchronocity](https://www.useparagon.com/blog/synchronous-vs-asynchronous-integration-use-cases)
 - [How Paragon fits into you tech stack](https://www.useparagon.com/blog/how-paragon-fits-into-your-product-tech-stack)
 - [Paragon vs Integration.app](https://www.useparagon.com/blog/top-integration-app-alternatives)
 ### 🐚 General Use Case Demos 
