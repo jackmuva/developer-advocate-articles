@@ -11,11 +11,13 @@
 - [Scaling your AI Agent's Toolbox](https://www.useparagon.com/learn/scaling-your-ai-agent-toolbox/)
 
 ## 🏗️ Build vs Buy
+- [Build vs Buy: AI edition](https://www.useparagon.com/resources/build-vs-buy-ai-use-cases-content)
 - [Build vs Buy: Authentication for 3rd-party Integrations](https://www.useparagon.com/learn/build-vs-buy-authentication-for-integrations/)
 - [Build vs Buy: Data Ingestion](https://www.useparagon.com/learn/build-vs-buy-data-ingestion/)
 - [Build vs Buy: Data Sync](https://www.useparagon.com/learn/build-vs-buy-bidirectional-sync/)
 
-## 🧠 Thought Leadership/Educational 
+## 🧠 Thought Leadership/Educational
+- [MCP x Integration Platforms](https://www.useparagon.com/blog/mcp-for-native-integrations)
 - [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
 - [Building webhooks for real-time use cases](https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases)
 
