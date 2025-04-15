@@ -2,6 +2,7 @@
 ## 🧮 Research on Best Practices
 - [RAG Best Practices: Querying vs Data Ingestion](https://www.useparagon.com/learn/rag-best-practices-query-vs-data-ingestion/)
 - [RAG Best Practices: Optimizing Tool Calling](https://www.useparagon.com/learn/rag-best-practices-optimizing-tool-calling/)
+- [Optimizing RAG Retrieval](https://www.useparagon.com/learn/from-research-to-practice-optimizing-rag-retrieval-for-unstructured-documents/)
 
 ##  📜 Tutorials
 - [RAG with multiple integrations](https://www.useparagon.com/learn/ai-knowledge-chatbot-chapter-1/)
@@ -18,6 +19,7 @@
 
 ## 🧠 Thought Leadership/Educational
 - [MCP x Integration Platforms](https://www.useparagon.com/blog/mcp-for-native-integrations)
+- [Guide: Ingesting Google Drive Files for RAG](https://www.useparagon.com/learn/what-to-know-about-ingesting-google-drive-data-for-rag/)
 - [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
 - [Building webhooks for real-time use cases](https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases)
 
