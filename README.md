@@ -19,6 +19,7 @@
 
 ## 🧠 Thought Leadership/Educational
 - [MCP x Integration Platforms](https://www.useparagon.com/blog/mcp-for-native-integrations)
+- [Guide: Ingesting Slack messages for RAG](https://www.useparagon.com/learn/guide-ingesting-slack-messages-for-rag/)
 - [Guide: Ingesting Google Drive Files for RAG](https://www.useparagon.com/learn/what-to-know-about-ingesting-google-drive-data-for-rag/)
 - [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
 - [Building webhooks for real-time use cases](https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases)
