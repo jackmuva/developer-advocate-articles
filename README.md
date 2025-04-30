@@ -1,4 +1,7 @@
 # Developer Advocate Articles
+## 🗞️ Newsletter
+- [Inference: Actionable Insights for AI Product Builders](https://www.useparagon.com/inference-signup)
+  
 ## 🧮 Research on Best Practices
 - [RAG Best Practices: Querying vs Data Ingestion](https://www.useparagon.com/learn/rag-best-practices-query-vs-data-ingestion/)
 - [RAG Best Practices: Optimizing Tool Calling](https://www.useparagon.com/learn/rag-best-practices-optimizing-tool-calling/)
