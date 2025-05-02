@@ -13,6 +13,7 @@
 - [Production ready permissions for RAG](https://www.useparagon.com/learn/building-permissions-and-access-control-that-scale-with-third-party-integrations/)
 - [Agentic tools across integrations](https://www.useparagon.com/learn/implementing-agentic-actions-with-third-party-integrations/)
 - [Scaling your AI Agent's Toolbox](https://www.useparagon.com/learn/scaling-your-ai-agent-toolbox/)
+- [Implementing a Workflow Builder](https://www.useparagon.com/learn/implement-a-workflow-builder-with-3rd-party-actions/)
 
 ## 🏗️ Build vs Buy
 - [Build vs Buy: AI edition](https://www.useparagon.com/resources/build-vs-buy-ai-use-cases-content)
