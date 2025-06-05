@@ -22,6 +22,7 @@
 - [Build vs Buy: Data Sync](https://www.useparagon.com/learn/build-vs-buy-bidirectional-sync/)
 
 ## 🧠 Thought Leadership/Educational
+- [copilots vs agents vs workflows](https://www.useparagon.com/blog/ai-copilots-vs-ai-agents-vs-ai-workflows)
 - [top 4 integration use cases for ai products](https://www.useparagon.com/blog/top-4-integration-use-cases-for-ai-products)
 - [MCP x Integration Platforms](https://www.useparagon.com/blog/mcp-for-native-integrations)
 - [Guide: Ingesting Gong Transcripts for RAG](https://www.useparagon.com/learn/guide-ingesting-gong-transcripts/)
