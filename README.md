@@ -25,11 +25,15 @@
 - [copilots vs agents vs workflows](https://www.useparagon.com/blog/ai-copilots-vs-ai-agents-vs-ai-workflows)
 - [top 4 integration use cases for ai products](https://www.useparagon.com/blog/top-4-integration-use-cases-for-ai-products)
 - [MCP x Integration Platforms](https://www.useparagon.com/blog/mcp-for-native-integrations)
+- [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
+- [Building webhooks for real-time use cases](https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases)
+
+## 🦮 Integration Guides
 - [Guide: Ingesting Gong Transcripts for RAG](https://www.useparagon.com/learn/guide-ingesting-gong-transcripts/)
 - [Guide: Ingesting Slack messages for RAG](https://www.useparagon.com/learn/guide-ingesting-slack-messages-for-rag/)
 - [Guide: Ingesting Google Drive Files for RAG](https://www.useparagon.com/learn/what-to-know-about-ingesting-google-drive-data-for-rag/)
-- [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
-- [Building webhooks for real-time use cases](https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases)
+- [How to create an OAuth Jira app](https://www.useparagon.com/blog/create-a-jira-app-to-enable-oauth-for-your-integration)
+- [How to create an OAuth Slack app](https://www.useparagon.com/blog/create-a-slack-app-to-enable-oauth-for-your-integration)
 
 ## 🔬 Paragon Product Focused 🔬
 - [Paragon's Approach to Synchronocity](https://www.useparagon.com/blog/synchronous-vs-asynchronous-integration-use-cases)
