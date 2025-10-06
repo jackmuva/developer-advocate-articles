@@ -17,6 +17,7 @@
 - [Production-ready RAG with Managed Solutions](https://www.useparagon.com/learn/how-to-build-production-ready-rag/)
 - [Permissions & Access Control for RAG - a deep dive](https://www.useparagon.com/learn/permissions-access-control-for-production-rag-apps/)
 - [Optimize and Scale your AI Agent's Tool Calling](https://www.useparagon.com/learn/optimizing-tool-performance-and-scalability-for-your-ai-agent/)
+- [How to build a workflow builder for users to build automations](https://www.useparagon.com/learn/how-to-implement-an-embedded-workflow-builder/)
 
 ## 🏗️ Build vs Buy
 - [Build vs Buy: AI edition](https://www.useparagon.com/resources/build-vs-buy-ai-use-cases-content)
