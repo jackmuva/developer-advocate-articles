@@ -19,6 +19,7 @@
 - [Build vs Buy: Data Sync](https://www.useparagon.com/learn/build-vs-buy-bidirectional-sync/)
 
 ## 🧠 Thought Leadership
+- [ActionKit vs. Tool Providers](https://www.useparagon.com/blog/actionkit-vs-tool-providers)
 - [MCP x Integration Platforms](https://www.useparagon.com/blog/mcp-for-native-integrations)
 - [Comprehensive guide to the RAG tech stack](https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack)
 - [copilots vs agents vs workflows](https://www.useparagon.com/blog/ai-copilots-vs-ai-agents-vs-ai-workflows)
